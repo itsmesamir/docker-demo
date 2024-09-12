@@ -1,0 +1,6 @@
+# add node modules in git ignore
+
+node_modules
+
+# node_modules from all subdirectories
+**/node_modules
